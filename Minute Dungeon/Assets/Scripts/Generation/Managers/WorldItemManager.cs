@@ -7,7 +7,7 @@ public class WorldItemManager : Singleton<WorldItemManager> {
 	public GameObject droppedItemPrefab;
 
 	private void Start() {
-		PoolManager.Instance.CreatePool (droppedItemPrefab, 15);
+		PoolManager.Instance.CreatePool (droppedItemPrefab, 100);
 	}
 
 	public void CreateItemInWorld(string item, Vector2 location, Vector2 maxSpread) {

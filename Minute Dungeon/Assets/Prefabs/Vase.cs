@@ -6,6 +6,7 @@ public class Vase : MonoBehaviour, IHittable
 {
 	public LootTable lootTable;
 	[SerializeField] private AudioSource breakSound;
+	private ParticleSystem particles;
 
 	void Start()
 	{
@@ -14,6 +15,7 @@ public class Vase : MonoBehaviour, IHittable
 			new LootTableItem ("coin", 1, 4, 100, 65),
 			new LootTableItem ("silver_coin", 0, 3, 80, 80)
 		});
+		particles = GetComponent<ParticleSystem>();
 	}
 
 	public void Hit()
@@ -32,6 +34,7 @@ public class Vase : MonoBehaviour, IHittable
     {
 		GetComponent<BoxCollider2D>().enabled = false;
 		GetComponent<SpriteRenderer>().enabled = false;
+		particles.Play();
 		yield return new WaitForSeconds(1);
 		Destroy(gameObject);
 	}

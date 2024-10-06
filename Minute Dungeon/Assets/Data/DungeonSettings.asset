@@ -23,6 +23,21 @@ MonoBehaviour:
   spawnables:
   - name: vase
     prefab: {fileID: 1545551757553054, guid: f2afa964e50f749d38df1af5bc844405, type: 3}
+    odds: 7
+  - name: enemy
+    prefab: {fileID: 3487662063551919380, guid: fa002b259ef184ee7b959a43543617aa, type: 3}
+    odds: 5
+  - name: ruin_1
+    prefab: {fileID: 1545551757553054, guid: 276dba6f27ef74d6e80d760530aa87cf, type: 3}
+    odds: 2
+  - name: ruin_2
+    prefab: {fileID: 1545551757553054, guid: 02144629459924f7bb7335feb3026d33, type: 3}
+    odds: 2
+  - name: ruin_3
+    prefab: {fileID: 1545551757553054, guid: a382970a4c4134957ba03da87bf8e6f5, type: 3}
+    odds: 2
+  - name: crate
+    prefab: {fileID: 1545551757553054, guid: 3135e9255ee2e4aa094cbfb1cefc443a, type: 3}
     odds: 5
   debugCriticalPlatforms: 0
   debugSpawningSpace: 0

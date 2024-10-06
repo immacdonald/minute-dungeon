@@ -294,14 +294,7 @@ public class Player : Singleton<Player> {
         {
             Vector3 contactLocal = collision.collider.transform.InverseTransformPoint(collision.GetContact(0).point);
             Debug.Log(contactLocal);
-            if (contactLocal.y > 0.8f && !damageImmune)
-            {
-                enemyDeathSound.Play();
-                Destroy(collision.collider.gameObject);
-                velocity.y = 15;
-                return;
-            }
-            else if (dashing)
+            if (dashing)
             {
                 enemyDeathSound.Play();
                 Destroy(collision.collider.gameObject);
@@ -312,7 +305,7 @@ public class Player : Singleton<Player> {
                 Vector2 direction = new Vector2(transform.position.x - collision.GetContact(0).point.x, transform.position.y - collision.GetContact(0).point.y).normalized;
                 velocity.x = direction.x * 40;
                 velocity.y = 10;
-                ModifyHealth(-1);
+                //ModifyHealth(-1);
             }
         }
         if ((interactionMask.value & (1 << collision.gameObject.layer)) > 0)
@@ -425,7 +418,7 @@ public class Player : Singleton<Player> {
 
     IEnumerator RepeatAttack()
     {
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i < 2; i++)
         {
             Vector2 boxSize = new Vector2(2f, 1.5f);
 
@@ -434,7 +427,7 @@ public class Player : Singleton<Player> {
             Vector2 origin = transform.position;
 
             // Perform the boxcast
-            RaycastHit2D hit = Physics2D.BoxCast(origin, boxSize, 0f, direction, 2, attackInteractionMask);
+            RaycastHit2D hit = Physics2D.BoxCast(origin, boxSize, 0f, direction, 3, attackInteractionMask);
 
             // If the boxcast hits something on the specified layer
             if (hit.collider != null)
@@ -444,6 +437,10 @@ public class Player : Singleton<Player> {
                 if (hit.collider.gameObject.TryGetComponent<IHittable>(out hittable))
                 {
                     hittable.Hit();
+                    if(hit.collider.tag == "Enemy")
+                    {
+                        enemyDeathSound.Play();
+                    }
                 }
             }
 

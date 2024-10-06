@@ -3,18 +3,19 @@
 public class DroppedItem : MonoBehaviour, IInteractable {
 	private string item;
 	[SerializeField] private AudioSource pickupSound;
+	private ParticleSystem particles;
 
 	public void Initalize (string item) {
 		this.item = item;
 
-		Debug.Log($"Loading sprites/{item}");
 		GetComponent<SpriteRenderer> ().sprite = Resources.Load<Sprite>($"sprites/{item}");
-		//gameObject.GetComponent<SpriteRenderer>().enabled = true;
-		//gameObject.GetComponent<BoxCollider2D>().enabled = true;
+		gameObject.GetComponent<SpriteRenderer>().enabled = true;
+		particles = GetComponent<ParticleSystem>();
 	}
 
 	public string Interact()
     {
+		particles.Play();
 		pickupSound.Play();
 		gameObject.GetComponent<SpriteRenderer>().enabled = false;
 		gameObject.GetComponent<BoxCollider2D>().enabled = false;

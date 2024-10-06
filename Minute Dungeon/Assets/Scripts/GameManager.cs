@@ -131,12 +131,11 @@ public class GameManager : Singleton<GameManager>
     {
         float dungeonStartTime = GameTime;
         bool changedColor = false;
-        int totalTime = 22;
+        int totalTime = 63;
 
         while(totalTime - (GameTime - dungeonStartTime) > 0)
         {
             float timeRemaining = totalTime - (GameTime - dungeonStartTime);
-            Debug.Log($"{timeRemaining}");
             timeText.text = $"{Mathf.Min(60, Mathf.RoundToInt(timeRemaining))}";
 
             if(!changedColor && timeRemaining < 10)
