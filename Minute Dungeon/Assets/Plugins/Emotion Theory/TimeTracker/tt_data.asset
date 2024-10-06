@@ -1149,7 +1149,22 @@ MonoBehaviour:
     time: 746
   - timeBeganDate: 10/6/2024 3:32:41 AM
     timeBegan: 63863782361
-    time: 3539
+    time: 3705
+  - timeBeganDate: 10/6/2024 4:34:50 AM
+    timeBegan: 63863786090
+    time: 793
+  - timeBeganDate: 10/6/2024 4:49:09 AM
+    timeBegan: 63863786949
+    time: 427
+  - timeBeganDate: 10/6/2024 5:44:36 AM
+    timeBegan: 63863790276
+    time: 51
+  - timeBeganDate: 10/6/2024 5:45:52 AM
+    timeBegan: 63863790352
+    time: 61
+  - timeBeganDate: 10/6/2024 9:46:12 AM
+    timeBegan: 63863804772
+    time: 371
   settings:
     showSettingsOnStartup: 0
     show: 0
