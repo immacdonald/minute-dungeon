@@ -1,0 +1,1159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba1d1c06ac51f8545bba647191047a80, type: 3}
+  m_Name: tt_data
+  m_EditorClassIdentifier: 
+  entries:
+  - timeBeganDate: 12/3/2023 6:42:56 PM
+    timeBegan: 63837225776
+    time: 676
+  - timeBeganDate: 12/3/2023 10:28:55 PM
+    timeBegan: 63837239335
+    time: 183
+  - timeBeganDate: 12/3/2023 10:33:45 PM
+    timeBegan: 63837239625
+    time: 249
+  - timeBeganDate: 12/3/2023 10:40:31 PM
+    timeBegan: 63837240031
+    time: 918
+  - timeBeganDate: 12/3/2023 10:56:58 PM
+    timeBegan: 63837241018
+    time: 2032
+  - timeBeganDate: 12/3/2023 11:32:40 PM
+    timeBegan: 63837243160
+    time: 1647
+  - timeBeganDate: 12/4/2023 12:00:07 AM
+    timeBegan: 63837244807
+    time: 548
+  - timeBeganDate: 12/4/2023 12:11:31 AM
+    timeBegan: 63837245491
+    time: 1723
+  - timeBeganDate: 12/4/2023 12:48:25 AM
+    timeBegan: 63837247705
+    time: 109
+  - timeBeganDate: 12/4/2023 12:50:38 AM
+    timeBegan: 63837247838
+    time: 854
+  - timeBeganDate: 12/4/2023 1:06:45 AM
+    timeBegan: 63837248805
+    time: 788
+  - timeBeganDate: 12/4/2023 1:20:55 AM
+    timeBegan: 63837249655
+    time: 173
+  - timeBeganDate: 12/4/2023 1:25:57 AM
+    timeBegan: 63837249957
+    time: 70
+  - timeBeganDate: 12/4/2023 1:27:52 AM
+    timeBegan: 63837250072
+    time: 1402
+  - timeBeganDate: 12/4/2023 2:00:20 AM
+    timeBegan: 63837252020
+    time: 158
+  - timeBeganDate: 12/4/2023 2:03:17 AM
+    timeBegan: 63837252197
+    time: 1029
+  - timeBeganDate: 12/4/2023 2:23:21 AM
+    timeBegan: 63837253401
+    time: 1493
+  - timeBeganDate: 12/4/2023 3:04:30 AM
+    timeBegan: 63837255870
+    time: 12
+  - timeBeganDate: 12/4/2023 11:01:43 AM
+    timeBegan: 63837284503
+    time: 129
+  - timeBeganDate: 12/4/2023 11:04:52 AM
+    timeBegan: 63837284692
+    time: 385
+  - timeBeganDate: 12/4/2023 11:11:56 AM
+    timeBegan: 63837285116
+    time: 3495
+  - timeBeganDate: 12/4/2023 12:59:54 PM
+    timeBegan: 63837291594
+    time: 619
+  - timeBeganDate: 12/4/2023 1:12:18 PM
+    timeBegan: 63837292338
+    time: 250
+  - timeBeganDate: 12/4/2023 1:17:29 PM
+    timeBegan: 63837292649
+    time: 705
+  - timeBeganDate: 12/4/2023 1:29:26 PM
+    timeBegan: 63837293366
+    time: 193
+  - timeBeganDate: 12/4/2023 1:32:58 PM
+    timeBegan: 63837293578
+    time: 186
+  - timeBeganDate: 12/4/2023 1:37:40 PM
+    timeBegan: 63837293860
+    time: 497
+  - timeBeganDate: 12/4/2023 1:46:09 PM
+    timeBegan: 63837294369
+    time: 61
+  - timeBeganDate: 12/4/2023 2:00:06 PM
+    timeBegan: 63837295206
+    time: 945
+  - timeBeganDate: 12/4/2023 2:17:22 PM
+    timeBegan: 63837296242
+    time: 353
+  - timeBeganDate: 12/4/2023 2:26:32 PM
+    timeBegan: 63837296792
+    time: 69
+  - timeBeganDate: 12/4/2023 3:02:05 PM
+    timeBegan: 63837298925
+    time: 209
+  - timeBeganDate: 12/4/2023 3:07:45 PM
+    timeBegan: 63837299265
+    time: 569
+  - timeBeganDate: 12/4/2023 3:17:39 PM
+    timeBegan: 63837299859
+    time: 125
+  - timeBeganDate: 12/4/2023 3:20:00 PM
+    timeBegan: 63837300000
+    time: 290
+  - timeBeganDate: 12/4/2023 3:26:36 PM
+    timeBegan: 63837300396
+    time: 393
+  - timeBeganDate: 12/4/2023 3:33:55 PM
+    timeBegan: 63837300835
+    time: 146
+  - timeBeganDate: 12/4/2023 3:37:03 PM
+    timeBegan: 63837301023
+    time: 168
+  - timeBeganDate: 12/4/2023 3:41:56 PM
+    timeBegan: 63837301316
+    time: 234
+  - timeBeganDate: 12/4/2023 3:45:52 PM
+    timeBegan: 63837301552
+    time: 200
+  - timeBeganDate: 12/4/2023 3:51:16 PM
+    timeBegan: 63837301876
+    time: 1848
+  - timeBeganDate: 12/4/2023 4:22:58 PM
+    timeBegan: 63837303778
+    time: 632
+  - timeBeganDate: 12/4/2023 4:35:15 PM
+    timeBegan: 63837304515
+    time: 966
+  - timeBeganDate: 12/4/2023 4:53:02 PM
+    timeBegan: 63837305582
+    time: 473
+  - timeBeganDate: 12/4/2023 5:04:58 PM
+    timeBegan: 63837306298
+    time: 263
+  - timeBeganDate: 12/4/2023 5:10:11 PM
+    timeBegan: 63837306611
+    time: 136
+  - timeBeganDate: 12/4/2023 5:15:06 PM
+    timeBegan: 63837306906
+    time: 792
+  - timeBeganDate: 12/4/2023 5:31:36 PM
+    timeBegan: 63837307896
+    time: 445
+  - timeBeganDate: 12/4/2023 5:41:33 PM
+    timeBegan: 63837308493
+    time: 532
+  - timeBeganDate: 12/4/2023 5:50:58 PM
+    timeBegan: 63837309058
+    time: 69
+  - timeBeganDate: 12/4/2023 5:56:05 PM
+    timeBegan: 63837309365
+    time: 536
+  - timeBeganDate: 12/4/2023 6:05:58 PM
+    timeBegan: 63837309958
+    time: 0
+  - timeBeganDate: 12/4/2023 6:09:09 PM
+    timeBegan: 63837310149
+    time: 0
+  - timeBeganDate: 12/4/2023 6:11:01 PM
+    timeBegan: 63837310261
+    time: 0
+  - timeBeganDate: 12/4/2023 6:18:09 PM
+    timeBegan: 63837310689
+    time: 48
+  - timeBeganDate: 12/4/2023 6:23:03 PM
+    timeBegan: 63837310983
+    time: 2133
+  - timeBeganDate: 12/4/2023 7:00:42 PM
+    timeBegan: 63837313242
+    time: 70
+  - timeBeganDate: 12/4/2023 7:03:14 PM
+    timeBegan: 63837313394
+    time: 325
+  - timeBeganDate: 12/4/2023 7:12:14 PM
+    timeBegan: 63837313934
+    time: 244
+  - timeBeganDate: 12/4/2023 11:30:35 PM
+    timeBegan: 63837329435
+    time: 122
+  - timeBeganDate: 12/4/2023 11:36:44 PM
+    timeBegan: 63837329804
+    time: 1098
+  - timeBeganDate: 12/5/2023 9:17:20 AM
+    timeBegan: 63837364640
+    time: 244
+  - timeBeganDate: 12/5/2023 9:25:57 AM
+    timeBegan: 63837365157
+    time: 1037
+  - timeBeganDate: 12/5/2023 9:45:21 AM
+    timeBegan: 63837366321
+    time: 4281
+  - timeBeganDate: 12/5/2023 10:59:05 AM
+    timeBegan: 63837370745
+    time: 694
+  - timeBeganDate: 12/5/2023 11:11:25 AM
+    timeBegan: 63837371485
+    time: 138
+  - timeBeganDate: 12/5/2023 11:24:07 AM
+    timeBegan: 63837372247
+    time: 161
+  - timeBeganDate: 12/5/2023 11:27:39 AM
+    timeBegan: 63837372459
+    time: 60
+  - timeBeganDate: 12/5/2023 11:28:51 AM
+    timeBegan: 63837372531
+    time: 183
+  - timeBeganDate: 12/5/2023 11:35:32 AM
+    timeBegan: 63837372932
+    time: 60
+  - timeBeganDate: 12/5/2023 11:36:44 AM
+    timeBegan: 63837373004
+    time: 246
+  - timeBeganDate: 12/5/2023 11:42:04 AM
+    timeBegan: 63837373324
+    time: 103
+  - timeBeganDate: 12/5/2023 11:45:24 AM
+    timeBegan: 63837373524
+    time: 208
+  - timeBeganDate: 12/5/2023 11:52:54 AM
+    timeBegan: 63837373974
+    time: 59
+  - timeBeganDate: 12/5/2023 11:55:41 AM
+    timeBegan: 63837374141
+    time: 0
+  - timeBeganDate: 12/6/2023 9:30:59 PM
+    timeBegan: 63837495059
+    time: 854
+  - timeBeganDate: 12/6/2023 9:48:17 PM
+    timeBegan: 63837496097
+    time: 305
+  - timeBeganDate: 12/6/2023 9:59:23 PM
+    timeBegan: 63837496763
+    time: 126
+  - timeBeganDate: 12/6/2023 10:04:12 PM
+    timeBegan: 63837497052
+    time: 1390
+  - timeBeganDate: 12/6/2023 10:27:44 PM
+    timeBegan: 63837498464
+    time: 3206
+  - timeBeganDate: 12/6/2023 11:21:39 PM
+    timeBegan: 63837501699
+    time: 2319
+  - timeBeganDate: 12/7/2023 12:00:18 AM
+    timeBegan: 63837504018
+    time: 854
+  - timeBeganDate: 12/7/2023 12:16:37 AM
+    timeBegan: 63837504997
+    time: 61
+  - timeBeganDate: 12/7/2023 12:23:43 AM
+    timeBegan: 63837505423
+    time: 170
+  - timeBeganDate: 12/7/2023 12:28:13 AM
+    timeBegan: 63837505693
+    time: 427
+  - timeBeganDate: 12/7/2023 12:37:17 AM
+    timeBegan: 63837506237
+    time: 173
+  - timeBeganDate: 12/7/2023 12:50:39 AM
+    timeBegan: 63837507039
+    time: 0
+  - timeBeganDate: 12/7/2023 8:25:04 AM
+    timeBegan: 63837534304
+    time: 61
+  - timeBeganDate: 12/7/2023 8:28:53 AM
+    timeBegan: 63837534533
+    time: 0
+  - timeBeganDate: 12/7/2023 8:39:50 AM
+    timeBegan: 63837535190
+    time: 692
+  - timeBeganDate: 12/7/2023 8:52:12 AM
+    timeBegan: 63837535932
+    time: 349
+  - timeBeganDate: 12/7/2023 9:02:04 AM
+    timeBegan: 63837536524
+    time: 59
+  - timeBeganDate: 12/7/2023 9:07:04 AM
+    timeBegan: 63837536824
+    time: 374
+  - timeBeganDate: 12/7/2023 9:13:20 AM
+    timeBegan: 63837537200
+    time: 59
+  - timeBeganDate: 12/7/2023 9:16:26 AM
+    timeBegan: 63837537386
+    time: 1525
+  - timeBeganDate: 12/7/2023 10:12:44 AM
+    timeBegan: 63837540764
+    time: 1166
+  - timeBeganDate: 12/7/2023 10:33:32 AM
+    timeBegan: 63837542012
+    time: 773
+  - timeBeganDate: 12/7/2023 10:49:01 AM
+    timeBegan: 63837542941
+    time: 61
+  - timeBeganDate: 12/7/2023 11:01:34 AM
+    timeBegan: 63837543694
+    time: 182
+  - timeBeganDate: 12/7/2023 11:04:48 AM
+    timeBegan: 63837543888
+    time: 190
+  - timeBeganDate: 12/7/2023 11:08:28 AM
+    timeBegan: 63837544108
+    time: 78
+  - timeBeganDate: 12/7/2023 11:23:21 AM
+    timeBegan: 63837545001
+    time: 113
+  - timeBeganDate: 12/7/2023 11:25:34 AM
+    timeBegan: 63837545134
+    time: 61
+  - timeBeganDate: 12/12/2023 11:28:33 PM
+    timeBegan: 63838020513
+    time: 1891
+  - timeBeganDate: 12/13/2023 12:00:04 AM
+    timeBegan: 63838022404
+    time: 366
+  - timeBeganDate: 12/13/2023 12:08:23 AM
+    timeBegan: 63838022903
+    time: 0
+  - timeBeganDate: 12/13/2023 12:15:22 AM
+    timeBegan: 63838023322
+    time: 0
+  - timeBeganDate: 12/13/2023 12:15:28 AM
+    timeBegan: 63838023328
+    time: 1668
+  - timeBeganDate: 12/13/2023 12:46:00 AM
+    timeBegan: 63838025160
+    time: 512
+  - timeBeganDate: 12/13/2023 1:05:54 AM
+    timeBegan: 63838026354
+    time: 493
+  - timeBeganDate: 12/13/2023 1:14:54 AM
+    timeBegan: 63838026894
+    time: 142
+  - timeBeganDate: 12/13/2023 1:22:36 AM
+    timeBegan: 63838027356
+    time: 150
+  - timeBeganDate: 12/13/2023 1:42:16 AM
+    timeBegan: 63838028536
+    time: 59
+  - timeBeganDate: 12/13/2023 1:44:12 AM
+    timeBegan: 63838028652
+    time: 427
+  - timeBeganDate: 12/13/2023 1:51:25 AM
+    timeBegan: 63838029085
+    time: 1546
+  - timeBeganDate: 12/13/2023 1:57:33 PM
+    timeBegan: 63838072653
+    time: 654
+  - timeBeganDate: 12/13/2023 2:08:37 PM
+    timeBegan: 63838073317
+    time: 1934
+  - timeBeganDate: 12/13/2023 2:41:04 PM
+    timeBegan: 63838075264
+    time: 751
+  - timeBeganDate: 12/13/2023 2:53:45 PM
+    timeBegan: 63838076025
+    time: 431
+  - timeBeganDate: 12/13/2023 3:01:29 PM
+    timeBegan: 63838076489
+    time: 173
+  - timeBeganDate: 12/13/2023 3:08:06 PM
+    timeBegan: 63838076886
+    time: 265
+  - timeBeganDate: 12/13/2023 3:15:32 PM
+    timeBegan: 63838077332
+    time: 2021
+  - timeBeganDate: 12/13/2023 3:50:13 PM
+    timeBegan: 63838079413
+    time: 106
+  - timeBeganDate: 12/13/2023 3:55:05 PM
+    timeBegan: 63838079705
+    time: 438
+  - timeBeganDate: 12/13/2023 4:44:54 PM
+    timeBegan: 63838082694
+    time: 143
+  - timeBeganDate: 12/13/2023 4:48:36 PM
+    timeBegan: 63838082916
+    time: 236
+  - timeBeganDate: 12/13/2023 4:53:23 PM
+    timeBegan: 63838083203
+    time: 544
+  - timeBeganDate: 12/13/2023 5:03:44 PM
+    timeBegan: 63838083824
+    time: 621
+  - timeBeganDate: 12/13/2023 5:14:20 PM
+    timeBegan: 63838084460
+    time: 108
+  - timeBeganDate: 12/13/2023 5:22:55 PM
+    timeBegan: 63838084975
+    time: 59
+  - timeBeganDate: 12/13/2023 5:24:50 PM
+    timeBegan: 63838085090
+    time: 60
+  - timeBeganDate: 12/13/2023 5:31:22 PM
+    timeBegan: 63838085482
+    time: 187
+  - timeBeganDate: 12/13/2023 5:42:42 PM
+    timeBegan: 63838086162
+    time: 221
+  - timeBeganDate: 12/13/2023 5:47:28 PM
+    timeBegan: 63838086448
+    time: 59
+  - timeBeganDate: 12/13/2023 5:49:15 PM
+    timeBegan: 63838086555
+    time: 134
+  - timeBeganDate: 12/13/2023 5:52:11 PM
+    timeBegan: 63838086731
+    time: 106
+  - timeBeganDate: 12/13/2023 6:03:32 PM
+    timeBegan: 63838087412
+    time: 74
+  - timeBeganDate: 12/13/2023 6:17:25 PM
+    timeBegan: 63838088245
+    time: 89
+  - timeBeganDate: 12/13/2023 6:23:08 PM
+    timeBegan: 63838088588
+    time: 60
+  - timeBeganDate: 12/13/2023 6:26:12 PM
+    timeBegan: 63838088772
+    time: 71
+  - timeBeganDate: 12/13/2023 6:44:49 PM
+    timeBegan: 63838089889
+    time: 75
+  - timeBeganDate: 12/13/2023 7:03:30 PM
+    timeBegan: 63838091010
+    time: 104
+  - timeBeganDate: 12/13/2023 7:06:58 PM
+    timeBegan: 63838091218
+    time: 970
+  - timeBeganDate: 12/13/2023 7:34:31 PM
+    timeBegan: 63838092871
+    time: 2258
+  - timeBeganDate: 12/13/2023 8:15:27 PM
+    timeBegan: 63838095327
+    time: 183
+  - timeBeganDate: 12/13/2023 8:21:32 PM
+    timeBegan: 63838095692
+    time: 756
+  - timeBeganDate: 12/13/2023 8:34:19 PM
+    timeBegan: 63838096459
+    time: 1198
+  - timeBeganDate: 12/13/2023 8:54:19 PM
+    timeBegan: 63838097659
+    time: 0
+  - timeBeganDate: 12/13/2023 9:10:52 PM
+    timeBegan: 63838098652
+    time: 0
+  - timeBeganDate: 12/13/2023 9:28:27 PM
+    timeBegan: 63838099707
+    time: 0
+  - timeBeganDate: 12/13/2023 9:46:01 PM
+    timeBegan: 63838100761
+    time: 0
+  - timeBeganDate: 12/13/2023 10:02:56 PM
+    timeBegan: 63838101776
+    time: 0
+  - timeBeganDate: 12/13/2023 10:18:24 PM
+    timeBegan: 63838102704
+    time: 0
+  - timeBeganDate: 12/13/2023 10:35:09 PM
+    timeBegan: 63838103709
+    time: 0
+  - timeBeganDate: 12/13/2023 10:39:59 PM
+    timeBegan: 63838103999
+    time: 61
+  - timeBeganDate: 12/13/2023 10:58:17 PM
+    timeBegan: 63838105097
+    time: 0
+  - timeBeganDate: 12/13/2023 11:15:42 PM
+    timeBegan: 63838106142
+    time: 0
+  - timeBeganDate: 12/13/2023 11:31:21 PM
+    timeBegan: 63838107081
+    time: 0
+  - timeBeganDate: 12/13/2023 11:46:48 PM
+    timeBegan: 63838108008
+    time: 9
+  - timeBeganDate: 12/13/2023 11:49:40 PM
+    timeBegan: 63838108180
+    time: 59
+  - timeBeganDate: 12/14/2023 12:10:20 AM
+    timeBegan: 63838109420
+    time: 2775
+  - timeBeganDate: 12/14/2023 12:56:51 AM
+    timeBegan: 63838112211
+    time: 236
+  - timeBeganDate: 12/14/2023 1:01:57 AM
+    timeBegan: 63838112517
+    time: 140
+  - timeBeganDate: 12/14/2023 1:05:00 AM
+    timeBegan: 63838112700
+    time: 305
+  - timeBeganDate: 12/15/2023 5:16:19 PM
+    timeBegan: 63838257379
+    time: 1550
+  - timeBeganDate: 12/15/2023 5:51:06 PM
+    timeBegan: 63838259466
+    time: 1176
+  - timeBeganDate: 12/15/2023 6:16:00 PM
+    timeBegan: 63838260960
+    time: 672
+  - timeBeganDate: 12/15/2023 6:29:00 PM
+    timeBegan: 63838261740
+    time: 305
+  - timeBeganDate: 12/15/2023 6:38:08 PM
+    timeBegan: 63838262288
+    time: 2023
+  - timeBeganDate: 12/15/2023 7:13:13 PM
+    timeBegan: 63838264393
+    time: 931
+  - timeBeganDate: 12/15/2023 7:31:56 PM
+    timeBegan: 63838265516
+    time: 671
+  - timeBeganDate: 12/15/2023 8:04:16 PM
+    timeBegan: 63838267456
+    time: 558
+  - timeBeganDate: 12/15/2023 8:16:33 PM
+    timeBegan: 63838268193
+    time: 1051
+  - timeBeganDate: 12/15/2023 8:34:55 PM
+    timeBegan: 63838269295
+    time: 1839
+  - timeBeganDate: 12/15/2023 9:07:21 PM
+    timeBegan: 63838271241
+    time: 764
+  - timeBeganDate: 12/15/2023 9:20:24 PM
+    timeBegan: 63838272024
+    time: 1241
+  - timeBeganDate: 12/15/2023 9:44:08 PM
+    timeBegan: 63838273448
+    time: 709
+  - timeBeganDate: 12/15/2023 9:56:04 PM
+    timeBegan: 63838274164
+    time: 61
+  - timeBeganDate: 12/15/2023 9:59:18 PM
+    timeBegan: 63838274358
+    time: 244
+  - timeBeganDate: 12/15/2023 10:06:27 PM
+    timeBegan: 63838274787
+    time: 183
+  - timeBeganDate: 12/15/2023 10:12:27 PM
+    timeBegan: 63838275147
+    time: 843
+  - timeBeganDate: 12/15/2023 10:28:58 PM
+    timeBegan: 63838276138
+    time: 122
+  - timeBeganDate: 12/15/2023 10:54:15 PM
+    timeBegan: 63838277655
+    time: 508
+  - timeBeganDate: 12/15/2023 11:04:03 PM
+    timeBegan: 63838278243
+    time: 793
+  - timeBeganDate: 12/15/2023 11:19:26 PM
+    timeBegan: 63838279166
+    time: 1281
+  - timeBeganDate: 12/15/2023 11:43:53 PM
+    timeBegan: 63838280633
+    time: 319
+  - timeBeganDate: 12/15/2023 11:49:23 PM
+    timeBegan: 63838280963
+    time: 680
+  - timeBeganDate: 12/16/2023 12:00:43 AM
+    timeBegan: 63838281643
+    time: 2410
+  - timeBeganDate: 12/16/2023 12:44:50 AM
+    timeBegan: 63838284290
+    time: 1122
+  - timeBeganDate: 12/16/2023 1:04:31 AM
+    timeBegan: 63838285471
+    time: 0
+  - timeBeganDate: 12/16/2023 1:20:57 AM
+    timeBegan: 63838286457
+    time: 0
+  - timeBeganDate: 12/16/2023 1:38:03 AM
+    timeBegan: 63838287483
+    time: 0
+  - timeBeganDate: 12/16/2023 1:48:44 AM
+    timeBegan: 63838288124
+    time: 3775
+  - timeBeganDate: 12/16/2023 12:21:40 PM
+    timeBegan: 63838326100
+    time: 108
+  - timeBeganDate: 12/16/2023 12:26:03 PM
+    timeBegan: 63838326363
+    time: 1619
+  - timeBeganDate: 12/16/2023 12:55:18 PM
+    timeBegan: 63838328118
+    time: 1207
+  - timeBeganDate: 12/16/2023 1:15:29 PM
+    timeBegan: 63838329329
+    time: 910
+  - timeBeganDate: 12/16/2023 2:03:02 PM
+    timeBegan: 63838332182
+    time: 404
+  - timeBeganDate: 12/16/2023 2:16:41 PM
+    timeBegan: 63838333001
+    time: 1189
+  - timeBeganDate: 12/16/2023 3:01:42 PM
+    timeBegan: 63838335702
+    time: 183
+  - timeBeganDate: 12/16/2023 3:10:00 PM
+    timeBegan: 63838336200
+    time: 12
+  - timeBeganDate: 12/16/2023 3:27:26 PM
+    timeBegan: 63838337246
+    time: 156
+  - timeBeganDate: 12/16/2023 3:30:23 PM
+    timeBegan: 63838337423
+    time: 290
+  - timeBeganDate: 12/16/2023 3:35:51 PM
+    timeBegan: 63838337751
+    time: 571
+  - timeBeganDate: 12/16/2023 3:46:52 PM
+    timeBegan: 63838338412
+    time: 61
+  - timeBeganDate: 12/16/2023 3:49:37 PM
+    timeBegan: 63838338577
+    time: 836
+  - timeBeganDate: 12/16/2023 4:03:39 PM
+    timeBegan: 63838339419
+    time: 675
+  - timeBeganDate: 12/16/2023 4:17:45 PM
+    timeBegan: 63838340265
+    time: 1181
+  - timeBeganDate: 12/16/2023 4:40:26 PM
+    timeBegan: 63838341626
+    time: 197
+  - timeBeganDate: 12/16/2023 4:48:04 PM
+    timeBegan: 63838342084
+    time: 168
+  - timeBeganDate: 12/16/2023 5:00:46 PM
+    timeBegan: 63838342846
+    time: 581
+  - timeBeganDate: 12/16/2023 5:14:24 PM
+    timeBegan: 63838343664
+    time: 1159
+  - timeBeganDate: 12/16/2023 5:39:23 PM
+    timeBegan: 63838345163
+    time: 3
+  - timeBeganDate: 12/16/2023 9:12:24 PM
+    timeBegan: 63838357944
+    time: 496
+  - timeBeganDate: 12/16/2023 9:22:31 PM
+    timeBegan: 63838358551
+    time: 246
+  - timeBeganDate: 12/16/2023 9:26:40 PM
+    timeBegan: 63838358800
+    time: 334
+  - timeBeganDate: 12/16/2023 9:32:31 PM
+    timeBegan: 63838359151
+    time: 122
+  - timeBeganDate: 12/16/2023 9:36:03 PM
+    timeBegan: 63838359363
+    time: 0
+  - timeBeganDate: 12/16/2023 9:39:01 PM
+    timeBegan: 63838359541
+    time: 91
+  - timeBeganDate: 12/16/2023 9:43:58 PM
+    timeBegan: 63838359838
+    time: 169
+  - timeBeganDate: 12/16/2023 9:57:35 PM
+    timeBegan: 63838360655
+    time: 122
+  - timeBeganDate: 12/16/2023 10:02:59 PM
+    timeBegan: 63838360979
+    time: 305
+  - timeBeganDate: 12/16/2023 10:09:47 PM
+    timeBegan: 63838361387
+    time: 2333
+  - timeBeganDate: 12/16/2023 10:51:04 PM
+    timeBegan: 63838363864
+    time: 693
+  - timeBeganDate: 12/16/2023 11:06:14 PM
+    timeBegan: 63838364774
+    time: 956
+  - timeBeganDate: 12/16/2023 11:25:56 PM
+    timeBegan: 63838365956
+    time: 854
+  - timeBeganDate: 12/16/2023 11:44:06 PM
+    timeBegan: 63838367046
+    time: 976
+  - timeBeganDate: 12/17/2023 12:00:22 AM
+    timeBegan: 63838368022
+    time: 493
+  - timeBeganDate: 12/17/2023 12:09:30 AM
+    timeBegan: 63838368570
+    time: 1464
+  - timeBeganDate: 12/17/2023 12:50:53 AM
+    timeBegan: 63838371053
+    time: 0
+  - timeBeganDate: 12/17/2023 1:07:43 AM
+    timeBegan: 63838372063
+    time: 0
+  - timeBeganDate: 12/17/2023 1:18:58 AM
+    timeBegan: 63838372738
+    time: 0
+  - timeBeganDate: 12/17/2023 1:34:37 AM
+    timeBegan: 63838373677
+    time: 0
+  - timeBeganDate: 12/17/2023 1:49:43 AM
+    timeBegan: 63838374583
+    time: 0
+  - timeBeganDate: 12/17/2023 2:05:39 AM
+    timeBegan: 63838375539
+    time: 0
+  - timeBeganDate: 12/17/2023 2:21:30 AM
+    timeBegan: 63838376490
+    time: 0
+  - timeBeganDate: 12/17/2023 2:41:36 PM
+    timeBegan: 63838420896
+    time: 317
+  - timeBeganDate: 12/17/2023 2:47:05 PM
+    timeBegan: 63838421225
+    time: 124
+  - timeBeganDate: 12/17/2023 2:50:51 PM
+    timeBegan: 63838421451
+    time: 179
+  - timeBeganDate: 12/17/2023 2:54:47 PM
+    timeBegan: 63838421687
+    time: 1340
+  - timeBeganDate: 12/17/2023 4:19:05 PM
+    timeBegan: 63838426745
+    time: 1711
+  - timeBeganDate: 12/17/2023 4:58:35 PM
+    timeBegan: 63838429115
+    time: 1098
+  - timeBeganDate: 12/17/2023 5:33:35 PM
+    timeBegan: 63838431215
+    time: 0
+  - timeBeganDate: 12/17/2023 5:49:32 PM
+    timeBegan: 63838432172
+    time: 0
+  - timeBeganDate: 12/17/2023 6:06:44 PM
+    timeBegan: 63838433204
+    time: 0
+  - timeBeganDate: 12/17/2023 6:22:40 PM
+    timeBegan: 63838434160
+    time: 0
+  - timeBeganDate: 12/17/2023 6:37:59 PM
+    timeBegan: 63838435079
+    time: 0
+  - timeBeganDate: 12/17/2023 7:14:45 PM
+    timeBegan: 63838437285
+    time: 352
+  - timeBeganDate: 12/17/2023 7:20:55 PM
+    timeBegan: 63838437655
+    time: 450
+  - timeBeganDate: 12/17/2023 7:29:41 PM
+    timeBegan: 63838438181
+    time: 230
+  - timeBeganDate: 12/17/2023 7:33:34 PM
+    timeBegan: 63838438414
+    time: 59
+  - timeBeganDate: 12/17/2023 7:38:40 PM
+    timeBegan: 63838438720
+    time: 90
+  - timeBeganDate: 12/17/2023 7:40:41 PM
+    timeBegan: 63838438841
+    time: 202
+  - timeBeganDate: 12/17/2023 7:44:38 PM
+    timeBegan: 63838439078
+    time: 960
+  - timeBeganDate: 12/17/2023 8:04:51 PM
+    timeBegan: 63838440291
+    time: 60
+  - timeBeganDate: 12/17/2023 8:11:35 PM
+    timeBegan: 63838440695
+    time: 851
+  - timeBeganDate: 12/17/2023 8:26:48 PM
+    timeBegan: 63838441608
+    time: 1083
+  - timeBeganDate: 12/17/2023 8:50:38 PM
+    timeBegan: 63838443038
+    time: 153
+  - timeBeganDate: 12/17/2023 9:03:15 PM
+    timeBegan: 63838443795
+    time: 274
+  - timeBeganDate: 12/17/2023 9:08:24 PM
+    timeBegan: 63838444104
+    time: 60
+  - timeBeganDate: 12/17/2023 9:16:27 PM
+    timeBegan: 63838444587
+    time: 90
+  - timeBeganDate: 12/17/2023 9:20:26 PM
+    timeBegan: 63838444826
+    time: 86
+  - timeBeganDate: 12/17/2023 9:24:52 PM
+    timeBegan: 63838445092
+    time: 1134
+  - timeBeganDate: 12/17/2023 9:44:24 PM
+    timeBegan: 63838446264
+    time: 1139
+  - timeBeganDate: 12/17/2023 10:09:51 PM
+    timeBegan: 63838447791
+    time: 203
+  - timeBeganDate: 12/17/2023 10:17:17 PM
+    timeBegan: 63838448237
+    time: 60
+  - timeBeganDate: 12/17/2023 10:29:41 PM
+    timeBegan: 63838448981
+    time: 1353
+  - timeBeganDate: 12/17/2023 10:52:30 PM
+    timeBegan: 63838450350
+    time: 902
+  - timeBeganDate: 12/17/2023 11:07:35 PM
+    timeBegan: 63838451255
+    time: 1003
+  - timeBeganDate: 12/17/2023 11:24:41 PM
+    timeBegan: 63838452281
+    time: 1525
+  - timeBeganDate: 12/18/2023 12:06:36 AM
+    timeBegan: 63838454796
+    time: 60
+  - timeBeganDate: 12/18/2023 12:23:17 AM
+    timeBegan: 63838455797
+    time: 141
+  - timeBeganDate: 12/18/2023 12:41:25 AM
+    timeBegan: 63838456885
+    time: 185
+  - timeBeganDate: 12/18/2023 12:48:33 AM
+    timeBegan: 63838457313
+    time: 78
+  - timeBeganDate: 12/18/2023 12:49:59 AM
+    timeBegan: 63838457399
+    time: 217
+  - timeBeganDate: 12/18/2023 1:19:23 AM
+    timeBegan: 63838459163
+    time: 829
+  - timeBeganDate: 12/18/2023 1:47:10 AM
+    timeBegan: 63838460830
+    time: 244
+  - timeBeganDate: 12/18/2023 6:50:05 PM
+    timeBegan: 63838522205
+    time: 72
+  - timeBeganDate: 12/18/2023 6:52:37 PM
+    timeBegan: 63838522357
+    time: 244
+  - timeBeganDate: 12/18/2023 6:59:02 PM
+    timeBegan: 63838522742
+    time: 146
+  - timeBeganDate: 12/18/2023 7:03:38 PM
+    timeBegan: 63838523018
+    time: 0
+  - timeBeganDate: 12/18/2023 7:12:41 PM
+    timeBegan: 63838523561
+    time: 1005
+  - timeBeganDate: 12/18/2023 7:46:31 PM
+    timeBegan: 63838525591
+    time: 0
+  - timeBeganDate: 12/18/2023 8:03:07 PM
+    timeBegan: 63838526587
+    time: 0
+  - timeBeganDate: 12/18/2023 8:18:55 PM
+    timeBegan: 63838527535
+    time: 0
+  - timeBeganDate: 12/18/2023 8:27:48 PM
+    timeBegan: 63838528068
+    time: 305
+  - timeBeganDate: 12/18/2023 8:34:39 PM
+    timeBegan: 63838528479
+    time: 357
+  - timeBeganDate: 12/18/2023 8:42:50 PM
+    timeBegan: 63838528970
+    time: 329
+  - timeBeganDate: 12/18/2023 8:51:06 PM
+    timeBegan: 63838529466
+    time: 76
+  - timeBeganDate: 12/18/2023 8:52:50 PM
+    timeBegan: 63838529570
+    time: 542
+  - timeBeganDate: 12/18/2023 9:03:24 PM
+    timeBegan: 63838530204
+    time: 341
+  - timeBeganDate: 12/18/2023 9:11:22 PM
+    timeBegan: 63838530682
+    time: 71
+  - timeBeganDate: 12/18/2023 9:13:23 PM
+    timeBegan: 63838530803
+    time: 235
+  - timeBeganDate: 12/18/2023 9:20:23 PM
+    timeBegan: 63838531223
+    time: 89
+  - timeBeganDate: 12/18/2023 9:25:37 PM
+    timeBegan: 63838531537
+    time: 81
+  - timeBeganDate: 12/18/2023 9:30:09 PM
+    timeBegan: 63838531809
+    time: 79
+  - timeBeganDate: 12/18/2023 9:35:54 PM
+    timeBegan: 63838532154
+    time: 416
+  - timeBeganDate: 12/18/2023 9:45:13 PM
+    timeBegan: 63838532713
+    time: 501
+  - timeBeganDate: 12/18/2023 9:57:37 PM
+    timeBegan: 63838533457
+    time: 61
+  - timeBeganDate: 12/18/2023 10:10:15 PM
+    timeBegan: 63838534215
+    time: 244
+  - timeBeganDate: 12/18/2023 10:16:20 PM
+    timeBegan: 63838534580
+    time: 452
+  - timeBeganDate: 12/18/2023 10:25:19 PM
+    timeBegan: 63838535119
+    time: 122
+  - timeBeganDate: 12/18/2023 10:29:03 PM
+    timeBegan: 63838535343
+    time: 183
+  - timeBeganDate: 12/18/2023 10:34:19 PM
+    timeBegan: 63838535659
+    time: 427
+  - timeBeganDate: 12/18/2023 10:45:33 PM
+    timeBegan: 63838536333
+    time: 0
+  - timeBeganDate: 12/18/2023 10:47:11 PM
+    timeBegan: 63838536431
+    time: 610
+  - timeBeganDate: 12/18/2023 11:13:09 PM
+    timeBegan: 63838537989
+    time: 0
+  - timeBeganDate: 12/18/2023 11:26:35 PM
+    timeBegan: 63838538795
+    time: 158
+  - timeBeganDate: 12/18/2023 11:29:25 PM
+    timeBegan: 63838538965
+    time: 1891
+  - timeBeganDate: 12/19/2023 12:00:56 AM
+    timeBegan: 63838540856
+    time: 1872
+  - timeBeganDate: 12/19/2023 12:32:48 AM
+    timeBegan: 63838542768
+    time: 366
+  - timeBeganDate: 12/19/2023 12:40:15 AM
+    timeBegan: 63838543215
+    time: 671
+  - timeBeganDate: 12/19/2023 12:52:51 AM
+    timeBegan: 63838543971
+    time: 111
+  - timeBeganDate: 12/19/2023 12:55:53 AM
+    timeBegan: 63838544153
+    time: 685
+  - timeBeganDate: 12/19/2023 1:07:20 AM
+    timeBegan: 63838544840
+    time: 0
+  - timeBeganDate: 12/19/2023 1:13:47 AM
+    timeBegan: 63838545227
+    time: 61
+  - timeBeganDate: 12/19/2023 10:24:20 AM
+    timeBegan: 63838578260
+    time: 168
+  - timeBeganDate: 12/19/2023 10:41:05 AM
+    timeBegan: 63838579265
+    time: 183
+  - timeBeganDate: 12/19/2023 10:49:36 AM
+    timeBegan: 63838579776
+    time: 0
+  - timeBeganDate: 12/19/2023 11:06:01 AM
+    timeBegan: 63838580761
+    time: 0
+  - timeBeganDate: 12/19/2023 11:23:47 AM
+    timeBegan: 63838581827
+    time: 0
+  - timeBeganDate: 12/19/2023 11:38:17 AM
+    timeBegan: 63838582697
+    time: 229
+  - timeBeganDate: 12/19/2023 11:43:31 AM
+    timeBegan: 63838583011
+    time: 238
+  - timeBeganDate: 12/19/2023 11:48:12 AM
+    timeBegan: 63838583292
+    time: 157
+  - timeBeganDate: 12/19/2023 11:55:52 AM
+    timeBegan: 63838583752
+    time: 236
+  - timeBeganDate: 12/19/2023 12:00:47 PM
+    timeBegan: 63838584047
+    time: 61
+  - timeBeganDate: 12/19/2023 12:02:38 PM
+    timeBegan: 63838584158
+    time: 59
+  - timeBeganDate: 12/19/2023 12:04:56 PM
+    timeBegan: 63838584296
+    time: 116
+  - timeBeganDate: 12/19/2023 12:10:47 PM
+    timeBegan: 63838584647
+    time: 643
+  - timeBeganDate: 12/19/2023 12:22:04 PM
+    timeBegan: 63838585324
+    time: 540
+  - timeBeganDate: 12/19/2023 12:32:39 PM
+    timeBegan: 63838585959
+    time: 184
+  - timeBeganDate: 12/19/2023 1:19:57 PM
+    timeBegan: 63838588797
+    time: 0
+  - timeBeganDate: 12/19/2023 1:28:56 PM
+    timeBegan: 63838589336
+    time: 0
+  - timeBeganDate: 12/19/2023 1:31:11 PM
+    timeBegan: 63838589471
+    time: 0
+  - timeBeganDate: 12/19/2023 1:47:56 PM
+    timeBegan: 63838590476
+    time: 1
+  - timeBeganDate: 12/20/2023 12:41:49 PM
+    timeBegan: 63838672909
+    time: 60
+  - timeBeganDate: 12/20/2023 12:54:44 PM
+    timeBegan: 63838673684
+    time: 0
+  - timeBeganDate: 10/4/2024 10:44:43 PM
+    timeBegan: 63863678683
+    time: 1592
+  - timeBeganDate: 10/4/2024 11:23:52 PM
+    timeBegan: 63863681032
+    time: 695
+  - timeBeganDate: 10/4/2024 11:35:46 PM
+    timeBegan: 63863681746
+    time: 335
+  - timeBeganDate: 10/4/2024 11:41:40 PM
+    timeBegan: 63863682100
+    time: 706
+  - timeBeganDate: 10/5/2024 12:35:02 AM
+    timeBegan: 63863685302
+    time: 2698
+  - timeBeganDate: 10/5/2024 1:22:39 AM
+    timeBegan: 63863688159
+    time: 2884
+  - timeBeganDate: 10/5/2024 2:23:40 AM
+    timeBegan: 63863691820
+    time: 1468
+  - timeBeganDate: 10/5/2024 2:55:37 AM
+    timeBegan: 63863693737
+    time: 0
+  - timeBeganDate: 10/5/2024 3:13:03 AM
+    timeBegan: 63863694783
+    time: 0
+  - timeBeganDate: 10/5/2024 3:30:08 AM
+    timeBegan: 63863695808
+    time: 0
+  - timeBeganDate: 10/5/2024 3:36:35 AM
+    timeBegan: 63863696195
+    time: 0
+  - timeBeganDate: 10/5/2024 3:53:07 AM
+    timeBegan: 63863697187
+    time: 0
+  - timeBeganDate: 10/5/2024 4:09:06 AM
+    timeBegan: 63863698146
+    time: 16
+  - timeBeganDate: 10/5/2024 11:34:33 AM
+    timeBegan: 63863724873
+    time: 952
+  - timeBeganDate: 10/5/2024 12:07:44 PM
+    timeBegan: 63863726864
+    time: 0
+  - timeBeganDate: 10/5/2024 12:10:42 PM
+    timeBegan: 63863727042
+    time: 9799
+  - timeBeganDate: 10/5/2024 2:57:47 PM
+    timeBegan: 63863737067
+    time: 793
+  - timeBeganDate: 10/5/2024 3:12:28 PM
+    timeBegan: 63863737948
+    time: 302
+  - timeBeganDate: 10/5/2024 3:19:44 PM
+    timeBegan: 63863738384
+    time: 794
+  - timeBeganDate: 10/5/2024 3:38:37 PM
+    timeBegan: 63863739517
+    time: 892
+  - timeBeganDate: 10/5/2024 3:54:40 PM
+    timeBegan: 63863740480
+    time: 276
+  - timeBeganDate: 10/5/2024 4:00:35 PM
+    timeBegan: 63863740835
+    time: 158
+  - timeBeganDate: 10/5/2024 4:32:51 PM
+    timeBegan: 63863742771
+    time: 256
+  - timeBeganDate: 10/5/2024 4:38:48 PM
+    timeBegan: 63863743128
+    time: 61
+  - timeBeganDate: 10/5/2024 4:41:25 PM
+    timeBegan: 63863743285
+    time: 244
+  - timeBeganDate: 10/5/2024 4:49:01 PM
+    timeBegan: 63863743741
+    time: 0
+  - timeBeganDate: 10/5/2024 4:54:49 PM
+    timeBegan: 63863744089
+    time: 10
+  - timeBeganDate: 10/5/2024 9:11:52 PM
+    timeBegan: 63863759512
+    time: 279
+  - timeBeganDate: 10/5/2024 9:16:51 PM
+    timeBegan: 63863759811
+    time: 1312
+  - timeBeganDate: 10/5/2024 9:40:04 PM
+    timeBegan: 63863761204
+    time: 61
+  - timeBeganDate: 10/5/2024 10:08:13 PM
+    timeBegan: 63863762893
+    time: 1161
+  - timeBeganDate: 10/5/2024 10:52:13 PM
+    timeBegan: 63863765533
+    time: 2268
+  - timeBeganDate: 10/5/2024 11:33:14 PM
+    timeBegan: 63863767994
+    time: 259
+  - timeBeganDate: 10/5/2024 11:58:11 PM
+    timeBegan: 63863769491
+    time: 122
+  - timeBeganDate: 10/6/2024 12:00:13 AM
+    timeBegan: 63863769613
+    time: 794
+  - timeBeganDate: 10/6/2024 12:19:04 AM
+    timeBegan: 63863770744
+    time: 383
+  - timeBeganDate: 10/6/2024 12:29:06 AM
+    timeBegan: 63863771346
+    time: 3479
+  - timeBeganDate: 10/6/2024 1:27:49 AM
+    timeBegan: 63863774869
+    time: 2869
+  - timeBeganDate: 10/6/2024 2:16:04 AM
+    timeBegan: 63863777764
+    time: 1731
+  - timeBeganDate: 10/6/2024 2:45:07 AM
+    timeBegan: 63863779507
+    time: 1224
+  settings:
+    showSettingsOnStartup: 0
+    show: 0
+    deadline: 10/6/2024 12:00:00 PM
+    restPeriod: 60
+    restLength: 2
+    hoursPerDay: 4.5
+    salaryPerHour: 25
+    displayDeadline: 1
+    displaySalary: 0
+    displayDays: 1
+    displayThisWeek: 0
+    displayTotal: 1
